@@ -1,12 +1,12 @@
 ---
 title: 【まずはここから】現場ですぐ使えるVSCodeのショートカットまとめ
 tags:
-  - 'VSCode'
-  - 'ショートカット'
-  - '初心者'
+  - ショートカット
+  - 初心者
+  - VSCode
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-09-27T14:28:34+09:00'
+id: d4526e31ef5171a1c9b2
 organization_url_name: null
 slide: false
 ignorePublish: false
