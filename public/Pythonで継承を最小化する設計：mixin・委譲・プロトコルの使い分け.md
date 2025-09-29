@@ -1,12 +1,12 @@
 ---
 title: Pythonで継承を最小化する設計：Mixin・委譲・プロトコルの使い分け
 tags:
-  - 'Python'
-  - '継承'
-  - 'オブジェクト指向'
+  - Python
+  - オブジェクト指向
+  - 継承
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-09-30T08:45:35+09:00'
+id: 961ed47306cc9271e686
 organization_url_name: null
 slide: false
 ignorePublish: false
