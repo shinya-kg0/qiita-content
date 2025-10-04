@@ -1,13 +1,13 @@
 ---
 title: pytestでモックやパッチを使いたい！｜monkeypatch vs testfixtures.replace
 tags:
-  - 'Python'
-  - 'pytest'
-  - 'モック'
-  - 'パッチ'
+  - Python
+  - batch
+  - pytest
+  - モック
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-10-04T14:09:35+09:00'
+id: d6f1a008c950979346ea
 organization_url_name: null
 slide: false
 ignorePublish: false
