@@ -1,12 +1,12 @@
 ---
 title: Python初心者が“冗長コード”を脱出するためのTips
 tags:
-  - 'Python'
-  - '初心者'
-  - 'Tips' 
+  - Python
+  - tips
+  - 初心者
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-10-18T11:08:37+09:00'
+id: 324424f87bc44a6b20cb
 organization_url_name: null
 slide: false
 ignorePublish: false
