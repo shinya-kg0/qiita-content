@@ -1,11 +1,11 @@
 ---
 title: Pythonの文字列処理【基本編】
 tags:
-  - 'Python'
-  - 'Tips'
+  - Python
+  - tips
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-11-01T12:02:39+09:00'
+id: a0e2433402903200ff79
 organization_url_name: null
 slide: false
 ignorePublish: false
