@@ -1,12 +1,12 @@
 ---
 title: 【一つの例で理解】sysモジュールを実務で使いこなす
 tags:
-  - 'python'
-  - 'tips'
-  - 'sys'
+  - Python
+  - tips
+  - sys
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-11-08T13:41:14+09:00'
+id: fffe6f40c425f74d65c5
 organization_url_name: null
 slide: false
 ignorePublish: false
