@@ -1,5 +1,5 @@
 ---
-title: 【一つの例で理解】sysモジュールを実務で使いこなす
+title: 【まとめて理解】sysモジュールを実務で使いこなす
 tags:
   - Python
   - tips
