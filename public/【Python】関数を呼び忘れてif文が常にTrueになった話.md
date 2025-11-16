@@ -1,11 +1,11 @@
 ---
 title: 【Python】関数を呼び忘れてif文が常にTrueになった話
 tags:
-  - 'Python'
-  - "バグ"
+  - Python
+  - バグ
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-11-16T13:26:25+09:00'
+id: 8ce4b911df0a31a8460c
 organization_url_name: null
 slide: false
 ignorePublish: false
