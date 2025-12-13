@@ -1,11 +1,11 @@
 ---
 title: データエンジニアになりたいけど何から学べばいい？技術スタックとAWSサービスを整理してみた
 tags:
-  - 'データエンジニア'
-  - 'AWS'
+  - AWS
+  - データエンジニア
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-13T11:47:35+09:00'
+id: 911c7c9a2daa80029109
 organization_url_name: null
 slide: false
 ignorePublish: false
