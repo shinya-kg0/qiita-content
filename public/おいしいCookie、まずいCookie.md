@@ -1,12 +1,12 @@
 ---
 title: おいしいCookie、まずいCookie
 tags:
-  - '初心者'
-  - 'Cookie'
-  - 'アンチパターン'
+  - 初心者
+  - cookie
+  - アンチパターン
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-21T10:45:26+09:00'
+id: 8fd3334e95e5f9ded29d
 organization_url_name: null
 slide: false
 ignorePublish: false
