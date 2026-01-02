@@ -5,7 +5,7 @@ tags:
   - 'AWS Certified Data Engineer - Associate'
 private: false
 updated_at: ''
-id: null
+id: ef4f9d4178b5818a6ffe
 organization_url_name: null
 slide: false
 ignorePublish: false
