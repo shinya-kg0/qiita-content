@@ -1,11 +1,11 @@
 ---
 title: pip installって何してるの？
 tags:
-  - 'Python'
-  - '初心者'
+  - Python
+  - 初心者
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-01-24T10:41:56+09:00'
+id: 9923fb21c48ea999b191
 organization_url_name: null
 slide: false
 ignorePublish: false
