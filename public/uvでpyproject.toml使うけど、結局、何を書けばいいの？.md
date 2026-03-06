@@ -1,12 +1,12 @@
 ---
 title: uvでpyproject.toml使うけど、結局、何を書けばいいの？
 tags:
-  - 'Python'
-  - 'uv'
-  - 'toml'
+  - Python
+  - UV
+  - TOML
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-02-28T16:34:48+09:00'
+id: eee05fc5822ccc09b76e
 organization_url_name: null
 slide: false
 ignorePublish: false
