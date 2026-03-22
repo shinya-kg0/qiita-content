@@ -1,11 +1,11 @@
 ---
 title: 理解できない概念は、NotebookLMのスライド機能に整理させればいいんじゃない？
 tags:
-  - '勉強法'
-  - '初心者'
-  - 'NotebookLM'
+  - 初心者
+  - 勉強法
+  - NotebookLM
 private: false
-updated_at: ''
+updated_at: '2026-03-08T21:08:07+09:00'
 id: 35f8dfeb96434e41f89b
 organization_url_name: null
 slide: false
